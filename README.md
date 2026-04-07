@@ -33,7 +33,7 @@ hms/
 
 ### Step 1 — Install Python
 Make sure Python 3.10 or above is installed.
-Download from: https://www.python.org/downloads/
+Download from this: https://www.python.org/downloads/
 
 ### Step 2 — Create Virtual Environment (Recommended)
 Open terminal/command prompt in the `hms` folder:
