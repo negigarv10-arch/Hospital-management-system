@@ -4,7 +4,6 @@
 ---
 
 ## 📁 Project Structure
-
 ```
 hms/
 ├── app.py              ← Flask app entry point
